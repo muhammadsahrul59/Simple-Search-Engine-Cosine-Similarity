@@ -5,7 +5,6 @@ from sklearn.metrics.pairwise import cosine_similarity
 import nltk
 from nltk.corpus import stopwords
 
-# Unduh stopwords jika belum dilakukan
 nltk.download("stopwords")
 
 # Definisikan stopwords bahasa Indonesia
@@ -43,7 +42,7 @@ def get_cosine_similarity(query, documents):
     return cosine_sim[0]  # Kembalikan skor kesamaan untuk setiap dokumen
 
 
-# Buat antarmuka menggunakan Streamlit
+# Buat title
 st.title("Search Engine Sederhana Hadits")
 
 # Input untuk pertanyaan dari pengguna
