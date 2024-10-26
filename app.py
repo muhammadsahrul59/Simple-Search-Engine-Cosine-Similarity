@@ -26,7 +26,7 @@ def load_documents_from_folder(folder_path):
 
 
 # Load dokumen dari folder 'hadits'
-folder_path = "dataset\hadits"  # Path folder tempat file txt berada
+folder_path = "dataset/hadits"  # Path folder tempat file txt berada
 documents, filenames = load_documents_from_folder(folder_path)
 
 
