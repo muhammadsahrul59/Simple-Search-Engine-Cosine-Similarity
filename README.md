@@ -4,6 +4,8 @@
 
 ![demo_gui](https://github.com/user-attachments/assets/c2804b8c-37c9-4ec9-8ad6-0d9cb86b9697)
 
+Search Engine Hadits Sederhana Link : <a href='https://msahrul-simple-search-engine.streamlit.app/' target='_blank' title='SE Hadits | Streamlit'>Search Engine Sederhana</a>
+
 ## Description
 
 Sebuah mesin pencari sederhana yang menggunakan Cosine Similarity.
